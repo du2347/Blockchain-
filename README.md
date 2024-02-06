@@ -1,6 +1,10 @@
 # Blockchain Integration in Decentralized Finance: Implementing a Secure Ledger System for Interbank Transactions
+
+## Executive Summary:
+As a fintech engineer at a leading global bank, the task is to lead the development of a blockchain-based ledger system for decentralized finance. This ledger aims to facilitate financial transactions between partner banks while ensuring data integrity. The project involves creating a new data class for financial transaction records, modifying existing block structures to accommodate these records, enhancing the user interface for input collection, and thoroughly testing the PyChain ledger.
+
 ## Objectives:
-To develop and deploy a blockchain-based ledger system for interbank transactions, the objectives encompassed creating a structured Record data class to store transaction details, integrating this class into the existing Block data structure, enhancing the Streamlit interface for seamless user input, and rigorously testing the functionality and integrity of the PyChain ledger system.
+The key objectives include creating a formalized Record data class to structure financial transaction records, modifying the Block data class to seamlessly store these records, enhancing the Streamlit interface to capture sender, receiver, and amount details, and rigorously testing the PyChain ledger for functionality and blockchain integrity. The overarching goal is establishing a secure and efficient platform for interbank transactions, fostering transparency and trust in financial operations.
 
 ## Methodology:
 - Created a Record Data Class: A new Python data class named Record was defined with the sender, receiver, and amount attributes. This class was implemented using the @dataclass decorator to formalize the data structure.
