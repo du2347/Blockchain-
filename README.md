@@ -11,6 +11,7 @@ The key objectives include creating a formalized Record data class to structure 
 - Modified the Existing Block Data Class: The data attribute in the Block class was renamed to record, and its type was set to the Record class. This modification ensured compatibility with the new data structure.
 - Relevant User Inputs were added to the Streamlit Interface: The Streamlit application was enhanced by adding input areas for sender, receiver, and amount. The Add Block button functionality was updated to incorporate these inputs and create new Block instances with Record attributes.
 - Tested the PyChain Ledger by Storing Records: The Streamlit application was executed to store multiple blocks in the ledger. Block contents and hashes were verified in the interface, and blockchain validity was confirmed through validation.
+## Screen Shots 
 
 ## Further Implications:
 The successful implementation of this blockchain-based ledger system carries significant implications for the financial industry. By providing a secure and decentralized platform for financial transactions, the system enhances operational efficiency and reduces the risk of fraud. This technology fosters trust among partner banks, paving the way for broader adoption of decentralized finance practices.
