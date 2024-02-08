@@ -1,0 +1,3 @@
+﻿,record,creator_id,prev_hash,timestamp,nonce
+0,"{'sender': 'Genesis', 'receiver': 'Genesis', 'amount': 0}",0,0,20:54:28,0
+1,"{'sender': 'Costco', 'receiver': 'Apple', 'amount': 2.0}",42,774ee26216570739435437e2286e825d7ab702fde9f91403db9cb2e7de100979,20:54:28,114984
