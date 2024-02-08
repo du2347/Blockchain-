@@ -12,6 +12,10 @@ The key objectives include creating a formalized Record data class to structure 
 - Relevant User Inputs were added to the Streamlit Interface: The Streamlit application was enhanced by adding input areas for sender, receiver, and amount. The Add Block button functionality was updated to incorporate these inputs and create new Block instances with Record attributes.
 - Tested the PyChain Ledger by Storing Records: The Streamlit application was executed to store multiple blocks in the ledger. Block contents and hashes were verified in the interface, and blockchain validity was confirmed through validation.
 ## Screen Shots 
+### Streamlit Application Page Sample: Block Ledger 
+![Screenshot 2024-02-08 155503](https://github.com/du2347/Blockchain-/assets/144859613/14633eca-8785-463a-a309-08c28baf63d8)
+### Streamlit Application Sample: Reflecting Validity of the Block
+![Screenshot 2024-02-08 155948](https://github.com/du2347/Blockchain-/assets/144859613/dcbc63e7-693c-4619-86c9-6ab1f9d38d0b)
 
 ## Further Implications:
 The successful implementation of this blockchain-based ledger system carries significant implications for the financial industry. By providing a secure and decentralized platform for financial transactions, the system enhances operational efficiency and reduces the risk of fraud. This technology fosters trust among partner banks, paving the way for broader adoption of decentralized finance practices.
