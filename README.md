@@ -14,6 +14,9 @@ The key objectives include creating a formalized Record data class to structure 
 ## Screen Shots 
 ### Streamlit Application Page Sample: Block Ledger 
 ![Screenshot 2024-02-08 155503](https://github.com/du2347/Blockchain-/assets/144859613/14633eca-8785-463a-a309-08c28baf63d8)
+
+![Screenshot 2024-02-08 155607](https://github.com/du2347/Blockchain-/assets/144859613/b27106f1-b613-4bee-a00f-ab58379ebd28)
+
 ### Streamlit Application Sample: Reflecting Validity of the Block
 ![Screenshot 2024-02-08 155948](https://github.com/du2347/Blockchain-/assets/144859613/dcbc63e7-693c-4619-86c9-6ab1f9d38d0b)
 
